@@ -1,4 +1,4 @@
-# nlp-personality-predictions
+# DNNLPersonality
 
 You'll need to download Anaconda, SpaCy, Tensorflow, Keras, Numpy, Pandas, and Sklearn.
 
